@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/ppc386" Date="1511735943"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -gl -k-framework -kCarbon -k-framework -kOpenGL -k-dylib_file -k/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib:/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib -l -vewnhibq -Fi/Users/indahreforsiana/Desktop/grafkomakhir/lib/i386-darwin -Fu/Developer/lazarus/lcl/units/i386-darwin/carbon -Fu/Developer/lazarus/lcl/units/i386-darwin -Fu/Developer/lazarus/components/lazutils/lib/i386-darwin -Fu/Developer/lazarus/packager/units/i386-darwin -Fu/Users/indahreforsiana/Desktop/grafkomakhir/ -FU/Users/indahreforsiana/Desktop/grafkomakhir/lib/i386-darwin/ -FE/Users/indahreforsiana/Desktop/grafkomakhir/ -o/Users/indahreforsiana/Desktop/grafkomakhir/project1 -dLCL -dLCLcarbon project1.lpr"/>
+</CONFIG>
